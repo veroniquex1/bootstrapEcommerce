@@ -7,3 +7,7 @@
     box-sizing: border-box;
 }
 
+/*navbar*/
+img[alt="logo"]{
+    width: 5rem;
+}
